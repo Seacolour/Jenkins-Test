@@ -1,5 +1,5 @@
 # 选择官方OpenJDK基础镜像
-FROM openjdk:21-jdk-slim
+FROM registry.cn-hangzhou.aliyuncs.com/seacolour_docker/openjdk:v21
 
 # 作者信息
 LABEL maintainer="1326192454@qq.com"
